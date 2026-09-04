@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💚 Soutenir l'association
+    url: https://www.helloasso.com/associations/atc-real-simulation/formulaires/1
+    about: Faire un don à ATC-Real Simulation via HelloAsso.
+  - name: 🔒 Signaler une vulnérabilité
+    url: https://github.com/ATC-REAL-SIMULATION/.github/blob/main/SECURITY.md
+    about: Ne publiez pas de faille de sécurité dans une issue publique. Consultez la politique de sécurité.
+  - name: 🛫 IVAO France
+    url: https://ivao.fr
+    about: Questions sur le réseau IVAO ou sa division France.
