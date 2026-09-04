@@ -6,7 +6,6 @@
 
 [![Faire un don](https://img.shields.io/badge/HelloAsso-Faire%20un%20don-1FB37C?style=for-the-badge)](https://www.helloasso.com/associations/atc-real-simulation/formulaires/1)
 [![IVAO France](https://img.shields.io/badge/Partenaire-IVAO%20France-0A5FB4?style=for-the-badge)](https://ivao.fr)
-[![Thrustmaster](https://img.shields.io/badge/Partenaire-Thrustmaster-E30613?style=for-the-badge)](https://www.thrustmaster.com)
 
 </div>
 
@@ -54,9 +53,9 @@ Le bureau initial est constitué de :
 
 | Rôle | Membre |
 |---|---|
-| Président | Maxime Mora |
-| Secrétaire | Paul Coulbouée |
-| Trésorier | Tim Rippert |
+| Président | Maxime |
+| Secrétaire | Paul |
+| Trésorier | Robin |
 
 Paul est choisi secrétaire car il est consulté dans toutes les prises de décision et souhaite s'investir dans la partie administrative. Les statuts sont rédigés avec l'aide juridique de Maëlys François afin de protéger l'association dans l'exécution de sa mission.
 
@@ -81,13 +80,13 @@ Organisée à huis clos, cette édition a principalement permis aux membres de l
 | 3 | 20/01/2024 | Salle louée | 7 | Nom ATC-REAL, partenariat Thrustmaster |
 | — | Mars 2024 | — | — | Création de l'association |
 | 4 | 17/08/2024 | Montpellier | 8 | Partenariat IVAO France, 1ʳᵉ édition par l'association |
-| 5 | 29/03/2025 | Montpellier | — | Stream de référence, édition la plus aboutie |
+| 5 | 29/03/2025 | Montpellier | 11 | Stream de référence, édition la plus aboutie |
 | 6 | 18/07/2026 | Huis clos | Membres | Ébauche d'une nouvelle organisation |
 
 ## 🤝 Partenaires
 
-- **[IVAO France](https://ivao.fr)** · division France du réseau IVAO, partenaire depuis l'édition 4
-- **[Thrustmaster](https://www.thrustmaster.com)** · partenaire depuis l'édition 3
+- **[IVAO France](https://ivao.fr)** · division France du réseau IVAO, partenaire de l'édition 7
+- **[Thrustmaster](https://www.thrustmaster.com)** · partenaire de l'édition 3
 
 ## 💚 Nous soutenir
 
@@ -101,7 +100,7 @@ Chaque contribution aide à financer les prochaines éditions d'ATC-REAL.
 
 ## 🛠️ Ce que vous trouverez ici
 
-Cette organisation GitHub héberge les projets techniques de l'association : outils pour les événements, overlays de stream, site web et documentation. Consultez le fichier [CONTRIBUTING.md](https://github.com/ATC-REAL-SIMULATION/.github/blob/main/CONTRIBUTING.md) pour savoir comment participer.
+Cette organisation GitHub héberge les projets techniques de l'association : outils pour les événements, site web et documentation.
 
 ---
 
